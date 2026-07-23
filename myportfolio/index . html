@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mera Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <!-- Photo -->
+        <img src="profile.jpg" alt="Mera Photo" class="profile-pic">
+        
+        <!-- Naam aur Intro -->
+        <h1>Aapka Naam</h1>
+        <p class="title">Web Developer / Student</p>
+        <p class="bio">Main ek passionate developer hoon jo nayi cheezein seekhna pasand karta hai.</p>
+
+        <!-- Resume Download Button -->
+        <a href="resume.pdf" download class="btn">Mera Resume Download Karein</a>
+    </div>
+
+</body>
+</html>
